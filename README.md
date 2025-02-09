@@ -75,8 +75,6 @@ Cons:
 
 ## Setting up your AWS Environment for EKS
 
-Sure! Let's go into detail for each subsection:
-
 ## 2.1 Creating an AWS Account and Setting up IAM Users
 
 Creating an AWS account is the first step to access and utilize AWS services, including Amazon Elastic Kubernetes Service (EKS). Here's a step-by-step guide to creating an AWS account and setting up IAM users:
